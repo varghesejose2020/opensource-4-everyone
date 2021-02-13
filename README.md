@@ -29,6 +29,16 @@ your extra branch(es).
 
 And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
 
+ ### But wait before you start contibuting, you've got to know us better!
+ ### This would really aid you to :
+ * Fit more into the community
+ * Understand our modes of operation
+ * Know the community moderators and members as well
+ * Know the goals and aim of the community
+ * Including your presence as a member, if you wish
+ ... and many more!
+ ### Check us out [@chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io)
+ 
 #### Feel free to check out other cool repositories of chryz-hub [here](https://github.com/chryz-hub)
 
 #### You can also join the discord community [here](https://discord.gg/c6RhGwcP5b)
