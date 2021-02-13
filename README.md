@@ -1,76 +1,35 @@
 # opensource-4-everyone
 This repo is for everything open source
 
-## How to contribute
-1.Fork the project
+Contributing
+============
+If you want to contribute to a project and make it better, your help is very welcome. Contributing is also a great way to learn more about social coding on Github, new technologies and and their ecosystems and how to make constructive, helpful bug reports, feature requests and the noblest of all contributions: a good, clean pull request.
 
-2.Make any changes in your forked repo
+### How to make a clean pull request
 
-3.On this repo, click Pull Requests and raise a Pull Request selecting your fork on the right drop down
+Look for a project's contribution instructions. If there are any, follow them.
 
-Questions can be asked by raising an Issue.
+- Create a personal fork of the project on Github.
+- Clone the fork on your local machine. Your remote repo on Github is called `origin`.
+- Add the original repository as a remote called `upstream`.
+- If you created your fork a while ago be sure to pull upstream changes into your local repository.
+- Create a new branch to work on! Branch from `develop` if it exists, else from `master`.
+- Implement/fix your feature, comment your code.
+- Follow the code style of the project, including indentation.
+- If the project has tests run them!
+- Write or adapt tests as needed.
+- Add or change the documentation as needed.
+- Squash your commits into a single commit with the community [git tips](https://github.com/chryz-hub/opensource-4-everyone/blob/main/git.md). Create a new branch if necessary.
+- Push your branch to your fork on Github, the remote `origin`.
+- From your fork open a pull request in the correct branch. Target the project's `develop` branch if there is one, else go for `master`!
+- …
+- If the maintainer requests further changes just push them to your branch. The PR will be updated automatically.
+- Once the pull request is approved and merged you can pull the changes from `upstream` to your local repo and delete
+your extra branch(es).
 
-## How to clone repo and make changes locally
-<pre><code>  click on the clone button (green in colour). This gives you a copy of the project. Its now yours to play around with
-</code></pre>
-<ul>
-<li>Using git on your local machine. Do this to download the forked copy of this repo to your computer</li>
-</ul>
-<pre><code>  git clone https://github.com/yourGithubUsername/hacktoberfest-practice.git
-</code></pre>
-<ul>
-<li>switch to the cloned folder. This can be done with Gitbash or the integrated terminal in the VSCode editor</li>
-</ul>
-<pre><code>  cd hacktoberfest-practice
-</code></pre>
-<ul>
-<li>Make a new branch. Your name would make a good branch because it's unique</li>
-</ul>
-<pre><code>  git checkout -b &lt;name of new branch&gt;
-</code></pre>
-<ul>
-<li>
-<p>Open the file <code>README.md</code></p>
-</li>
-<li>
-<p>On a new line in alphabetical order, add your name and a link to your Github profile</p>
-</li>
-<li>
-<p>For example ,
-<code>[Full Name](https://github.com/your-username)</code></p>
-</li>
-<li>
-<p>Stage your changes</p>
-</li>
-</ul>
-<pre><code>  git add README.md
-</code></pre>
-<ul>
-<li>Commit the changes</li>
-</ul>
-<pre><code>  git commit -m "Initial commit"
-</code></pre>
-<ul>
-<li>Check the status of your repository</li>
-</ul>
-<pre><code>  git status
-</code></pre>
-<ul>
-<li>Pushing your repository to github</li>
-</ul>
-<pre><code>  git push origin &lt;name of your branch&gt;
-</code></pre>
-<ul>
-<li>Pulling your request. Click on the Pull requests tab on the forked github repository.
-Note : A pull request allows your changes to be merged with the original project.</li>
-</ul>
-<pre><code>  click on pull request
-</code></pre>
-<ul>
-<li>
-<p>Wait for your changes to be merged</p>
-</li>
-<li>
-<p>Hurray! You successfully made a contribution</p>
-</li>
-</ul>
+And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
+
+Feel free to check out other cool repositories of chryz-hub [here](https://github.com/chryz-hub)
+
+You can also join the discord community [here](https://discord.gg/c6RhGwcP5b)
+
