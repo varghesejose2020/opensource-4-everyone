@@ -1,5 +1,5 @@
 # opensource-4-everyone
-This repo is for everything open source
+### This repo is for everything open source !
 
 Contributing
 ============
@@ -37,6 +37,9 @@ And last but not least: Always write your commit messages in the present tense. 
  * Know the goals and aim of the community
  * Including your presence as a member/ contributor, if you wish
  ... and many more!
+ 
+ ## Your First Pull Request!
+ __Eager to make your first pull request, we've got you covered. Make your [first Pull Request Here](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)__
 
  
 ## Find us on
