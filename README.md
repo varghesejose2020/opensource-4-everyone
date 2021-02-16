@@ -37,9 +37,11 @@ And last but not least: Always write your commit messages in the present tense. 
  * Know the goals and aim of the community
  * Including your presence as a member, if you wish
  ... and many more!
- ### Check us out [@chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io)
- 
-#### Feel free to check out other cool repositories of chryz-hub [here](https://github.com/chryz-hub)
 
-#### You can also join the discord community [here](https://discord.gg/c6RhGwcP5b)
+ 
+### Feel free to check out other cool repositories of chryz-hub 
+<a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
+### You can also join the discord community 
+<a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
+
 
