@@ -16,8 +16,14 @@ By these data provided, connections can be made!
 ____________________________________________________________________________________________________________________
 
 ### START CONTRIBUTING BY ADDING YOUR DATA
-_____________________________________________________________________________________________________________________
+____________________________________________________________________________________________________________________
 
+1. Name: Olanrewaju Alaba
 
+   Bio: A developer, technical writer, an open-source personnel and an aspiring data scientist
+   * [Twitter](https://twitter.com/chryz_codez)
+   * [GitHub](https://github.com/chryzcodez)
+   * [Hashnode](https://hashnode.com/@chryzcodez)
+   * [DevCommunity](https://dev.to/chryz_codez)
    
    
