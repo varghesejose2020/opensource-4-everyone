@@ -13,14 +13,13 @@
   
 By these data provided, connections can be made!
 
-### Join us via
-<a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
-
 ____________________________________________________________________________________________________________________
 
 ### START CONTRIBUTING BY ADDING YOUR DATA
+_____________________________________________________________________________________________________________________
 
 1. Name: Olanrewaju Alaba
+
    Bio: A developer, technical writer, opensource personnel and an aspiring data scientist
    * [Twitter](https://twitter.com/chryz_codez)
    * [GitHub](https://github.com/chryzcodez)
