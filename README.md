@@ -1,5 +1,5 @@
 # opensource-4-everyone
-This repo is for everything open source
+### This repo is for everything open source !
 
 Contributing
 ============
@@ -35,11 +35,14 @@ And last but not least: Always write your commit messages in the present tense. 
  * Understand our modes of operation
  * Know the community moderators and members as well
  * Know the goals and aim of the community
- * Including your presence as a member, if you wish
+ * Including your presence as a member/ contributor, if you wish
  ... and many more!
- ### Check us out [@chryz-hub](https://github.com/chryz-hub/chryz-hub.github.io)
  
-#### Feel free to check out other cool repositories of chryz-hub [here](https://github.com/chryz-hub)
+ ## Your First Pull Request!
+ __Eager to make your first pull request, we've got you covered. Make your [first Pull Request Here](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md)__
 
-#### You can also join the discord community [here](https://discord.gg/c6RhGwcP5b)
+ 
+## Find us on
+<a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
+<a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
 
