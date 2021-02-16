@@ -63,7 +63,9 @@ Now, you need to **open the pull request**, this entails
 
 ### Congratulations🎉 You've made your first contribution
 After your PR has been reviewed by the Team of the community and everything there is appropriate. Then, your PR would be merged and this makes your PR a contribution!
-<img align="center" src=" https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/pr%20in%20progress.png" />
+
+You can can see my Contribution below👇!
+<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/done.png" />
 
 #### We hope you found that, usefu!
 
