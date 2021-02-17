@@ -24,5 +24,6 @@ ________________________________________________________________________________
    * [Twitter](https://twitter.com/chryz_codez)
    * [GitHub](https://github.com/chryzcodez)
    * [Hashnode](https://hashnode.com/@chryzcodez)
+   * [Linkedin](https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/)
    * [DevCommunity](https://dev.to/chryz_codez)
    
