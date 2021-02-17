@@ -90,12 +90,12 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> Websites</strong>
 </summary>
     <ul>
-        <li><a href="https://www.codetriage.com/"> CodeTriage </a></li>
+        <li><a href="https://www.codetriage.com/"> CodeTriage</a></li>
         <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
         <li><a href="http://goodfirstissue.com/"> Good First Issue.com</a></li>
-        <li><a href="https://up-for-grabs.net/"> Up-for-grabs </a></li>
+        <li><a href="https://up-for-grabs.net/"> Up-for-grabs</a></li>
         <li><a href="https://www.firsttimersonly.com/"> First timers only</a></li>
-        <li><a href="https://firstcontributions.github.io/"> First contributions </a></li>
+        <li><a href="https://firstcontributions.github.io/"> First contributions</a></li>
     </ul>
 </details>
 
@@ -104,12 +104,12 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> Repositories</strong>
 </summary>
     <ul>
-       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/git.md">Learn both basic and advanced git commands </a></li>
-       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/starting-open-source.md">Getting started with open source </a></li>
-       <<li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/access-open-source-projects.md">How to get open source projects </a></li>
-       <<li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/anatomy-of-open-source-communities.md">Anatomy of open source communities </a></li>
-       <<li> <a href ="http://opensource.guide/how-to-contribute/finding-a-project-to-contribute-to">Finding a project to contribute to </a></li>
-       <<li> <a href ="https://github.com/MunGell/awesome-for-beginners">Awesome First PR Opportunities repository </a></li>
+       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/git.md"> Learn both basic and advanced git commands</a></li>
+       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/starting-open-source.md"> Getting started with open source</a></li>
+       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/access-open-source-projects.md"> How to get open source projects</a></li>
+       <li> <a href ="https://github.com/chryzcodez/opensource-4-everyone/blob/main/anatomy-of-open-source-communities.md"> Anatomy of open source communities</a></li>
+       <li> <a href ="http://opensource.guide/how-to-contribute/finding-a-project-to-contribute-to"> Finding a project to contribute to</a></li>
+       <li> <a href ="https://github.com/MunGell/awesome-for-beginners"> Awesome First PR Opportunities repository</a></li>
    </ul>
 </details>
 
@@ -118,10 +118,10 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 <strong> Paid Open-Source Internship </strong>
 </summary>
     <ul>
-       <li> <a href ="https://summerofcode.withgoogle.com/">Google Summer of Codes </a></li>
-       <li> <a href ="https://www.outreachy.org/">Outreachy </a></li>
-       <<li> <a href ="https://developers.google.com/season-of-docs">Google Season of Docs </a></li>
-       <<li> <a href ="https://wikimediafoundation.org/news/tag/internship/">Wikimedia Internship </a></li>
+       <li> <a href ="https://summerofcode.withgoogle.com/"> Google Summer of Codes</a></li>
+       <li> <a href ="https://www.outreachy.org/"> Outreachy</a></li>
+       <li> <a href ="https://developers.google.com/season-of-docs"> Google Season of Docs</a></li>
+       <li> <a href ="https://wikimediafoundation.org/news/tag/internship/"> Wikimedia Internship</a></li>
    </ul>
 </details>
 
