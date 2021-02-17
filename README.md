@@ -69,6 +69,28 @@ You can can see my Contribution below👇!
 
 #### We hope you found that, usefu!
 
+## Direct GitHub searches
+Search links that point directly to suitable issues to contribute to on GitHub.
+- [is:issue is:open label:beginner](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Abeginner)
+- [is:issue is:open label:easy](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Aeasy)
+- [is:issue is:open label:first-timers-only](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Afirst-timers-only)
+- [is:issue is:open label:good-first-bug](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Agood-first-bug)
+- [is:issue is:open label:"good first issue"](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3A%22good+first+issue%22)
+- [is:issue is:open label:starter](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Astarter)
+- [is:issue is:open label:up-for-grabs](https://github.com/issues?q=is%3Aissue+is%3Aopen+label%3Aup-for-grabs)
+
+
+## Resources
+* Learn both [basic and advanced git commands](https://github.com/chryzcodez/opensource-4-everyone/blob/main/git.md)
+* [Getting started with open source](https://github.com/chryzcodez/opensource-4-everyone/blob/main/starting-open-source.md)
+* [How to get open source projects](https://github.com/chryzcodez/opensource-4-everyone/blob/main/access-open-source-projects.md)
+* [Anatomy of open source communities](https://github.com/chryzcodez/opensource-4-everyone/blob/main/anatomy-of-open-source-communities.md)
+* [Finding a project to contribute to](http://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to)
+* [First Timers Only website](https://www.firsttimersonly.com/)
+* [Awesome First PR Opportunities repository](https://github.com/MunGell/awesome-for-beginners)
+* [First Contribution Website](https://firstcontributions.github.io/)
+
+
 ## Find us on
 <a href="https://discord.gg/c6RhGwcP5b"><img src="https://img.shields.io/badge/Discord-7289DA?style=for-the-badge&logo=discord&logoColor=white"><br>
 <a href="https://github.com/chryz-hub"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" width="102px"></a><br>
