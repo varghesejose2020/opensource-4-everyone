@@ -1,5 +1,5 @@
 ---
-name: Open Source question
+name: Open Source Question
 about: I am stuck please can someone help
 title: ''
 labels: question
