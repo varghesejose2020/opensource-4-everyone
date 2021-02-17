@@ -67,6 +67,9 @@ After your PR has been reviewed by the Team of the community and everything ther
 You can can see my Contribution below👇!
 <img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/done.png" />
 
+Have You Made Your GitHub Profile Readme
+* [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)
+
 #### We hope you found that, usefu!
 
 ## Direct GitHub searches
@@ -81,14 +84,27 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 
 
 ## Resources
+
+<summary>
+<strong> Websites</strong>
+</summary>
+    <ul>
+        <li><a href="https://www.codetriage.com/"> CodeTriage </a></li>
+        <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
+        <li><a href="http://goodfirstissue.com/"> Good First Issue.com</a></li>
+        <li><a href="https://up-for-grabs.net/"> Up-for-grabs </a></li>
+        <li><a href="https://www.firsttimersonly.com/"> First timers only</a></li>
+        <li><a href="https://firstcontributions.github.io/"> First contributions </a></li>
+    </ul>
+</details>
+
+
 * Learn both [basic and advanced git commands](https://github.com/chryzcodez/opensource-4-everyone/blob/main/git.md)
 * [Getting started with open source](https://github.com/chryzcodez/opensource-4-everyone/blob/main/starting-open-source.md)
 * [How to get open source projects](https://github.com/chryzcodez/opensource-4-everyone/blob/main/access-open-source-projects.md)
 * [Anatomy of open source communities](https://github.com/chryzcodez/opensource-4-everyone/blob/main/anatomy-of-open-source-communities.md)
 * [Finding a project to contribute to](http://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to)
-* [First Timers Only website](https://www.firsttimersonly.com/)
 * [Awesome First PR Opportunities repository](https://github.com/MunGell/awesome-for-beginners)
-* [First Contribution Website](https://firstcontributions.github.io/)
 
 
 ## Find us on
