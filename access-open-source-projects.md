@@ -11,8 +11,3 @@ We know this can be a difficult process, especially if it's your first time cont
 - Search issues on GitHub and filter by labels like `hacktoberfest` or [good-first-issue](https://github.com/search?q=label%3Agood-first-issue+state%3Aopen&type=Issues&ref=advsearch&l=&l=)
 - Take a look at the [Explore](https://github.com/explore) feature on GitHub. You can see the trending repositories or choose by topic (e.g. python)
 
-## Resources
-- [Finding a project to contribute to](http://opensource.guide/how-to-contribute/#finding-a-project-to-contribute-to)
-- [First Timers Only website](https://www.firsttimersonly.com/)
-- [Awesome First PR Opportunities repository](https://github.com/MunGell/awesome-for-beginners)
-- [First Contribution Website](https://firstcontributions.github.io/)
