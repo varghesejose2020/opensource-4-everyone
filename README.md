@@ -67,7 +67,7 @@ After your PR has been reviewed by the Team of the community and everything ther
 You can can see my Contribution below👇!
 <img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/done.png" />
 
-Have You Made Your GitHub Profile Readme
+### Have You Made Your GitHub Readme Profile?
 * [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)
 
 #### We hope you found that, usefu!
