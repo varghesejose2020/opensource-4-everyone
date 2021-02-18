@@ -33,8 +33,7 @@ your extra branch(es).
 
 And last but not least: Always write your commit messages in the present tense. Your commit message should describe what the commit, when applied, does to the code – not what you did to the code.
 
- ### But wait before you start contibuting, you've got to know us better!
- ### This would really aid you to :
+**But wait before you start contibuting, you've got to know us better. This would really aid you to :**
  * Fit more into the community
  * Understand our modes of operation
  * Know the community moderators and members as well
@@ -42,8 +41,8 @@ And last but not least: Always write your commit messages in the present tense. 
  * Including your presence as a member/ contributor, if you wish
  ... and many more!
  
- ## Your First Pull Request!
- ### Eager to make your first pull request, we've got you covered. Make your [first Pull Request Here](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md) but before that, check out our short tutorial on how to easily make a contribution 👇
+ ## The Pull Request Practice!
+Eager to make your first pull request or make out connections with lot of people or fishing out your choice[stack]-anyone, we've got you covered. Make a [Pull Request](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md) but before that, check out our short tutorial on how to easily make a contribution 👇
  
  ## Simple Guide to Making a PR or Contribution.
 - ### Fork/ Edit
