@@ -128,6 +128,12 @@ Search links that point directly to suitable issues to contribute to on GitHub.
    </ul>
 </details>
 
+<strong> Docs/ Blogs </strong>
+</summary>
+    <ul>
+       <li> <a href ="https://docs.github.com/en/github/getting-started-with-github/finding-ways-to-contribute-to-open-source-on-github"> GitHub docs for open source</a></li>
+   </ul>
+</details>
 
 
 
