@@ -23,6 +23,7 @@ In order to make git commit messages **easier to read** and faster to reason abo
 
 **Examples**:
 
+
 ```
 docs(changelog): update changelog to beta.5
 docs: add API documentation to the bot
