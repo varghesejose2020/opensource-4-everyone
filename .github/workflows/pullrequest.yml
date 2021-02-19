@@ -1,16 +1,16 @@
-on: [pull_request]
+on:
+  pull_request:
 
 jobs:
-    build:
-        name: Comment a pull_request
-        runs-on: ubuntu-latest
-        steps:
-            - name: Checkout
-              uses: actions/checkout@v2
-
-            - name: Comment a pull_request
-              uses: mb2dev/github-action-comment-pull-request@1.0.0
-              with:
-                message: "Hello, It's my first comment with Github action !"
-                GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
-                reactions: "+1 | -1 | laugh | hooray | confused | heart | rocket | eyes"
+  test:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: mshick/add-pr-comment@v1
+        with:
+          message: |
+            **Hello**
+            🌏
+            !
+          repo-token: ${{ secrets.GITHUB_TOKEN }}
+          repo-token-user-login: 'github-actions[bot]' # The user.login for temporary GitHub tokens
+          allow-repeats: false # This is the default
