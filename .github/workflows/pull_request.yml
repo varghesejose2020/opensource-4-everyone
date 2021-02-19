@@ -1,18 +1,24 @@
+name: Example
+
 on: 
   pull_request:
-    types: [opened]
+  issue_comment:
+    types: [created, edited]
 
 jobs:
-  create_comment:
+  example_comment_pr:
     runs-on: ubuntu-latest
-    name: Create a comment
+    name: An example job to comment a PR
     steps:
-      # To use this repository's private action,
-      # you must check out the repository
       - name: Checkout
-        uses: actions/checkout@v2
-      - name: Create comment
-        uses: ./ # Uses an action in the root directory
+        uses: actions/checkout@v1
+
+      - name: Comment PR
+        uses: allthatjazzleo/actions-pull-request-add-comment@master
+        if: >-
+          github.event_name == 'pull_request' || (github.event_name == 'issue_comment' 
+          && github.event.comment.body == '/hi' && github.actor == 'allthatjazzleo' )
         with:
-          comment: "Hello world!"
+          message: 'yoyo🤙🏻'
+          # message: "echo ${{ github.event.comment.body }}' dynamic message
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
