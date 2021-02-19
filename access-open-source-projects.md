@@ -3,6 +3,7 @@ So, you decided you want to start contributing to open source. Great :thumbsup:!
 
 We know this can be a difficult process, especially if it's your first time contributing to open source. For that reason, we have assimilated a list of tips to help you find a project to contribute to. The list also contains links to other resources about this topic from various authors, to help you further in finding projects that welcome contributors such as yourself :smiley:.
 
+
 ## Tips
 - Look at our projects in the [chryz-hub](https://github.com/chryz-hub) GitHub organization.
 - Have a look at your friends and community projects
