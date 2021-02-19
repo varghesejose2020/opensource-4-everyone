@@ -1,0 +1,14 @@
+name: comment-on-pr example
+on: [pull_request_target, push, issues]
+jobs:
+  example:
+    name: sample comment
+    runs-on: ubuntu-latest
+    steps:
+      - name: comment PR
+        uses: unsplash/comment-on-pr@master
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+        with:
+          msg: "<h1>It''s great having you contribute to this community</h1>!"
+          check_for_duplicate_msg: false  # OPTIONAL 
