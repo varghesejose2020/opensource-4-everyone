@@ -128,6 +128,8 @@ Search links that point directly to suitable issues to contribute to on GitHub.
    </ul>
 </details>
 
+<details>
+<summary>
 <strong> Open-Source Docs/ Blogs </strong>
 </summary>
     <ul>
