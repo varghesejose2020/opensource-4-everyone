@@ -94,11 +94,11 @@ Search links that point directly to suitable issues to contribute to on GitHub.
 </summary>
     <ul>
         <li><a href="https://www.codetriage.com/"> CodeTriage</a></li>
-        <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev</a></li>
-        <li><a href="http://goodfirstissue.com/"> Good First Issue.com</a></li>
-        <li><a href="https://up-for-grabs.net/"> Up-for-grabs</a></li>
-        <li><a href="https://www.firsttimersonly.com/"> First timers only</a></li>
-        <li><a href="https://firstcontributions.github.io/"> First contributions</a></li>
+        <li><a href="https://goodfirstissue.dev/"> Good First Issue.dev Site</a></li>
+        <li><a href="http://goodfirstissue.com/"> Good First Issue.com Site</a></li>
+        <li><a href="https://up-for-grabs.net/"> Up-for-grabs Site</a></li>
+        <li><a href="https://www.firsttimersonly.com/"> First timers only Site</a></li>
+        <li><a href="https://firstcontributions.github.io/"> First contributions Site</a></li>
     </ul>
 </details>
 
