@@ -45,5 +45,4 @@ Finally, open source projects use the following tools to organize discussion. Re
 
 ### Connect with us on;
   * [Discord](https://discord.gg/c6RhGwcP5b)
-  * [Twitter](https://twitter.com/chryz_codez)
   * chryzhub@gmail.com
