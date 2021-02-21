@@ -29,4 +29,4 @@ Please invite me to the GitHub Community Organisation.
 
 <!--What do you like about this community/ why do you want to join-->
 
-:nerd_face:
+
