@@ -43,6 +43,9 @@ And last but not least: Always write your commit messages in the present tense. 
  
  ## The Pull Request Practice!
 Eager to make your first pull request or make out connections with lot of people or fishing out your choice[stack]-anyone, we've got you covered. Make a [Pull Request](https://github.com/chryz-hub/opensource-4-everyone/blob/master/My-PR-Contribution-Practice.md) but before that, check out our short tutorial on how to easily make a contribution 👇
+
+**Note_**
+* To be a member; Raise an [invitation issue here!](https://github.com/chryz-hub/chryz-hub.github.io/issues/new?assignees=&labels=invite+me+to+the+organisation&template=invitation.md&title=Please+invite+me+to+the+GitHub+Community+Organization)
  
  ## Simple Guide to Making a PR or Contribution.
 - ### Fork/ Edit
