@@ -3,7 +3,6 @@
 ### This space is created for you to make your first pull request/ contribution as a firstimer in open source, also this might not be your first time but involve yourself in this, why?
 - To get an addtional 🟩 to your GitHub profile
 - To add to your pull request count
-- To be added officialy has a [contributor of this GitHub community](https://github.com/chryz-hub/chryz-hub.github.io/blob/master/CONTRIBUTORS.md)
 - To add to your contributions count
 - To make connections, how?
  In this PR/contribution practice, these can be included:
