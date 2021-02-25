@@ -25,7 +25,7 @@ ________________________________________________________________________________
 ### START CONTRIBUTING BY ADDING YOUR DATA
 ____________________________________________________________________________________________________________________
 
-- [Olanrewaju Alaba](https://github.com/chryzcodez)
+- [Alaba Olanrewaju](https://github.com/chryzcodez)
   <p>Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist</p>
    
    
