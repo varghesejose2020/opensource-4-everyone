@@ -7,23 +7,25 @@
 - To make connections, how?
  In this PR/contribution practice, these can be included:
   - Your name
+  - Your GitHUb profile link
   - What you do
-  - Links to your professional/ social media accounts
-  ... and so on
   
 By these data provided, connections can be made!
+
+- For example ,
+
+  ```[Full Name](https://github.com/your-username)```
+  
+  ```Bio:_________________________________________```
+  
+  On a new line in alphabetical order, add your name, bio and a link to your Github profile
 
 ____________________________________________________________________________________________________________________
 
 ### START CONTRIBUTING BY ADDING YOUR DATA
 ____________________________________________________________________________________________________________________
 
-1. Name: Olanrewaju Alaba
-
-   Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist
-   * [Twitter](https://twitter.com/chryz_codez)
-   * [GitHub](https://github.com/chryzcodez)
-   * [Hashnode](https://hashnode.com/@chryzcodez)
-   * [Linkedin](https://www.linkedin.com/in/olanrewaju-alaba-b038b51b4/)
-   * [DevCommunity](https://dev.to/chryz_codez)
+- [Olanrewaju Alaba](https://github.com/chryzcodez)
+  Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist
+   
    
