@@ -26,6 +26,6 @@ ________________________________________________________________________________
 ____________________________________________________________________________________________________________________
 
 - [Olanrewaju Alaba](https://github.com/chryzcodez)
-  Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist
+  <p>Bio: A developer, technical writer/ blogger, an open-source personnel and an aspiring data scientist</p>
    
    
