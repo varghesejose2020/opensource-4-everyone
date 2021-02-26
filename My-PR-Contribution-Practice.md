@@ -30,4 +30,7 @@ ________________________________________________________________________________
 
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer</p>
+   * [GitHub](https://github.com/namangupta1399)
+   * [Hashnode](https://hashnode.com/@namangupta)
+   * [Linkedin](https://www.linkedin.com/in/namangupta1399/)
    
