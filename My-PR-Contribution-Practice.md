@@ -30,4 +30,7 @@ ________________________________________________________________________________
   
 - [Naman Gupta](https://github.com/namangupta1399)
   <p>Bio: Computer Science Undergraduate, Aspiring Web Developer</p>
+  
+- [Tanimowo Emmanuel](https://github.com/mannuel25)
+  <p>Bio: I'm an aspiring back-end engineer
    
