@@ -73,11 +73,13 @@ After your PR has been reviewed by the Team of the community and everything ther
 You can can see some contributions below👇!
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/contributed.png" />
 
-- #### Have You Made Your GitHub Readme Profile?
-  - [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)
- 
-- #### Have You Made Your GitHub Membership Visibility Public?
-  - [GitHub Membership Visibility Tutorials](https://github.com/chryz-hub/opensource-4-everyone/blob/master/membership-visibility.md)
+## Chryz-hub Resources
+- [How To Make Your GitHub Profile Readme:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)
+- [GitHub Membership Visibility Tutorials](https://github.com/chryz-hub/opensource-4-everyone/blob/master/membership-visibility.md)
+- [The Anatomy of Open-Source Projects](https://github.com/chryz-hub/opensource-4-everyone/blob/master/anatomy-of-open-source-communities.md)
+- [Git Basic and Advance Commands Tutorial](https://github.com/chryz-hub/opensource-4-everyone/blob/master/git.md)
+- [Getting Started With Open-Source](https://github.com/chryz-hub/opensource-4-everyone/blob/master/starting-open-source.md)
+- [Getting an Open-Source Project to Start Contributing](https://github.com/chryz-hub/opensource-4-everyone/blob/master/access-open-source-projects.md)
 
 #### We hope you found that, usefu!
 
