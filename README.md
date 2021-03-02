@@ -73,10 +73,10 @@ After your PR has been reviewed by the Team of the community and everything ther
 You can can see some contributions below👇!
 <img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/contributed.png" />
 
-- ### Have You Made Your GitHub Readme Profile?
+- #### Have You Made Your GitHub Readme Profile?
   - [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)
  
-- ### Haave You Made Your GitHub Membership Visibility Public?
+- #### Have You Made Your GitHub Membership Visibility Public?
   - [GitHub Membership Visibility Tutorials](https://github.com/chryz-hub/opensource-4-everyone/blob/master/membership-visibility.md)
 
 #### We hope you found that, usefu!
