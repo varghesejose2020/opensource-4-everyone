@@ -1,4 +1,4 @@
-# Membership Visibilty
+# Membership Visibilty Tutorial
 
 This would be a short tutorial on how to make a your membership to a community visible or maybe hidden for a particular reason. I know we would all want
 our membership to be visible and that's why this was created.
