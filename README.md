@@ -70,8 +70,8 @@ Now, you need to **open the pull request**, this entails
 ### Congratulations🎉 You've made your first contribution
 After your PR has been reviewed by the Team of the community and everything there is appropriate. Then, your PR would be merged and this makes your PR a contribution!
 
-You can can see my Contribution below👇!
-<img align="center" src="https://github.com/chryzcodez/opensource-4-everyone/blob/main/pull-request-tutorial-pics/done.png" />
+You can can see some contributions below👇!
+<img align="center" src="https://github.com/chryz-hub/opensource-4-everyone/blob/master/pull-request-tutorial-pics/done.png" />
 
 ### Have You Made Your GitHub Readme Profile?
 * [HOW TO MAKE YOUR GITHUB PROFILE README:)](https://chryzcodez.hashnode.dev/how-to-make-your-github-profile-readme)
