@@ -146,6 +146,20 @@ Search links that point directly to suitable issues to contribute to on GitHub.
    </ul>
 </details>
 
+<details>
+<summary>
+<strong> Open Source books </strong>
+</summary>
+  <ul>
+   <li> <a href ="https://producingoss.com/">Producing Open Source Software</a></li>
+   <li> <a href ="https://opensource.com/resources/ebooks">Open Source Book Series</a></li>
+   <li> <a href ="https://tldp.org/HOWTO/Software-Release-Practice-HOWTO/">Software Release Practice HOWTO</a></li>
+   <li> <a href ="https://archive.org/details/opensources2.000diborich">Open Sources 2.0 : The Continuing Evolution (2005)</a></li>
+   <li> <a href ="http://www.aosabook.org/en/git.html">The Architecture of Open Source Applications (2005)</a></li>
+   <li> <a href ="https://www.oreilly.com/openbook/opensources/book/">Open Sources: Voices from the Open Source Revolution </a></li>
+   </ul>
+</details>
+
 
 
 ## Find us on
