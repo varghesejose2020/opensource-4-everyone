@@ -1,4 +1,4 @@
-## Anatomy of an open source project:
+# Anatomy of an open source project:
 
 Every open source community is different.
 
