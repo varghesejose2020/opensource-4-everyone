@@ -81,7 +81,7 @@ You can can see some contributions below👇!
 - [Getting Started With Open-Source](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/starting-open-source.md)
 - [Getting an Open-Source Project to Start Contributing](https://github.com/chryz-hub/opensource-4-everyone/blob/master/chryz-hub-resources/access-open-source-projects.md)
 
-#### We hope you found that, usefu!
+#### We hope you found that, useful
 
 ## Direct GitHub searches
 Search links that point directly to suitable issues to contribute to on GitHub.
