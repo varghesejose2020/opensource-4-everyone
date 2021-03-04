@@ -34,3 +34,5 @@ ________________________________________________________________________________
 - [Tanimowo Emmanuel](https://github.com/mannuel25)
   <p>Bio: I'm an aspiring back-end engineer
    
+- [Anthony Udeagbala](https://github.com/izudada)
+  <p>Bio: I am a growing python developer proficient with flask framework.
